@@ -24,5 +24,5 @@
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <p> 
- <img title="JIRA" alt="JIRA" width="100px" src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png" />
+ <img title="JIRA" alt="JIRA" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:9e1841b9-2557-4eb2-ab47-d92428580b02/Jira%20Software@2x-blue.png" />
 &nbsp;

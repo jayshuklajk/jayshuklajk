@@ -28,9 +28,7 @@
 &nbsp;
   <img title="JIRA" alt="JIRA" width="100px" src="https://w7.pngwing.com/pngs/458/702/png-transparent-bugzilla-mozilla-foundation-bug-tracking-system-software-testing-issue-tracking-system-jira-text-logo-computer-wallpaper.png" />
 &nbsp;
-
  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayshuklajk&show_icons=true&locale=en" alt="jayshuklajk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayshuklajk&" alt="jk" /></p>
 
- 

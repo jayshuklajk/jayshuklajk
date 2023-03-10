@@ -26,3 +26,5 @@
 <p> 
  <img title="JIRA" alt="JIRA" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:9e1841b9-2557-4eb2-ab47-d92428580b02/Jira%20Software@2x-blue.png" />
 &nbsp;
+  <img title="JIRA" alt="JIRA" width="100px" src="https://w7.pngwing.com/pngs/458/702/png-transparent-bugzilla-mozilla-foundation-bug-tracking-system-software-testing-issue-tracking-system-jira-text-logo-computer-wallpaper.png" />
+&nbsp;

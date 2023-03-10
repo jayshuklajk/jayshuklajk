@@ -17,4 +17,12 @@
 ## 🌐 Connect with Me :
 <a href="https://www.linkedin.com/in/jayshuklajk">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
-</a> 
+</a>
+<a href="https://www.instagram.com/jay_zafee">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<h2>:hammer_and_wrench: Tools I use</h2>
+<p> 
+ <img title="JIRA" alt="JIRA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+&nbsp;

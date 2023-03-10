@@ -1,6 +1,6 @@
-### Hi there, I am Jay Shukla👋
+<h1 align="center"> Hi there, I am Jay Shukla👋 </h1>
 
-<h3> A enthuenthusiast novice Manual Tester/QA from India.</h3>
+<h3 align="center"> A enthuenthusiast novice Manual Tester/QA from India.</h3>
 
 Here are some ideas to get you started:
 

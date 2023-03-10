@@ -2,9 +2,7 @@
 
 <h3 align="center"> A enthuenthusiast novice Manual Tester/QA from India.</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SDLC, STLC, Testing Levels, SDLC Models, Test Design Technique, Defect Life Cycle, Defect Reporting and Software Architecture.
+- 🔭 I’m currently working on <b> SDLC, STLC, Defect Life Cycle, Defect Reporting and Software Architecture.</b>
 - 📫 How to reach me: jayshuklajk@gmail.com
 - ⚡ Fun fact: Love Watching Movies 😍, Swimming 🏊‍♀️
 

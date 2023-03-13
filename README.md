@@ -7,7 +7,7 @@
 
 
 ## 🙋 About me :
-🔭 I’m currently working on <b> SDLC, STLC, Defect Life Cycle, Defect Reporting and Software Architecture.</b><br>
+🔭 I’m currently working on <b> SDLC, STLC, Test Cases, Defect Life Cycle & Defect Reporting </b><br>
 👨‍🏭 **Electronics & Communication Engineering Graduate** <br>
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 ⚡ Fun fact: Love Watching Movies 😍, Swimming 🏊‍♀️ <br>
